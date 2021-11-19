@@ -1,0 +1,39 @@
+/* This style sheet is for the 'Odin-Recipes' website 
+
+There are several sections to aid in clairity and the selector deffinitions will flow as follows; Class, Type, ID, Universal.
+
+NOTE: This will not only be one of my first try's at creating a .css stytling sheet, but will be my first efforts to have some sort of organization.
+
+*/
+
+
+
+
+
+/* CLASS Selectors */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+
+/* TYPE Selectors */
+
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    color: lightgreen;
+}
+
+
+
+/* ID Selectors */
+
+
+
+
+
+/* UNIVERSAL Selectors */
