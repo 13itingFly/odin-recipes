@@ -56,7 +56,10 @@ ul.c {
     color: brown;
 
 }
-
+ #intropic {
+     width: auto;
+     height: 50px;
+ }
 
 
 /* UNIVERSAL Selectors */
