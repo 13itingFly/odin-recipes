@@ -8,31 +8,54 @@ NOTE: This will not only be one of my first try's at creating a .css stytling sh
 
 
 
-
-
 /* CLASS Selectors */
 
 body {
-    background-color: black;
-    color: white;
+    background-color: #f6edaa;
+    color: #ec5858;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+ul.a {
+    list-style-type: none;
+    text-align: center;
+}
 
+ul.b {
+    list-style-type: '🔲';
+}
+
+ul.c {
+    list-style-type: '👉';
+}
 
 /* TYPE Selectors */
 
 .title {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 80px;
-    color: lightgreen;
+    color: #ea9444;
+    font-weight: bold;
 }
 
+.descript {
+    text-align: center;
+    color: black;
+}
 
+.headpic {
+    width: auto;
+    height: 400px;
+    margin: 10px auto 20px;
+    display: block;
+}
 
 /* ID Selectors */
 
+#intro {
+    color: brown;
 
+}
 
 
 
